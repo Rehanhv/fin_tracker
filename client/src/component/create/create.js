@@ -1,6 +1,8 @@
 import React, {useState} from "react";
 import { Form, Button} from 'react-bootstrap'
 import { useNavigate } from "react-router-dom";
+import './create.css';
+
 
 const Create = ()=>{
     const [formData,setFormData] = useState({

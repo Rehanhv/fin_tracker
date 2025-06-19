@@ -78,12 +78,11 @@ const Update = ()=>{
                             placeholder="Enter Amount"
                             value={formData.amount}
                             onChange={handleInputChange}                    
-                        
                         />
                     </Form.Group>
 
                     <Form.Group controlId="formBasicLocation">
-                        <Form.Label>Description</Form.Label>
+                        <Form.Label>Location</Form.Label>
                         <Form.Control 
                             type="text"
                             name="location"

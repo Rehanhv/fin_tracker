@@ -1,0 +1,39 @@
+.center-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .center-form h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .center-form .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .center-form label {
+    font-weight: bold;
+  }
+  
+  .center-form button {
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .center-form button:hover {
+    background-color: #0056b3;
+    transition: 0.3s;
+  }
+  
+  .center-form .form-group {
+    margin-bottom: 20px;
+  }
+  
